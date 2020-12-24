@@ -2,6 +2,7 @@
 
 I was given two datasets (budget_data.csv and election_data.csv) and created a Python script that analyzes the records to calculate each of the following:
 
+![alt text] (https://images.app.goo.gl/ErAK7QAt4zsqJvHM6)
 PyBank
 *   The total number of months included in the dataset
 *	The net total amount of "Profit/Losses" over the entire period
