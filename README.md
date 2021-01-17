@@ -1,4 +1,4 @@
-# Python-Challenge
+# Python-Project
 
 I was given two datasets (budget_data.csv and election_data.csv) and created a Python script that analyzes the records to calculate each of the following:
 
